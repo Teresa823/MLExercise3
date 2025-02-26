@@ -1,0 +1,35 @@
+{
+  "name": "education",
+  "entries": {
+    "all": {
+      "name": "*",
+      "gen": "all",
+      "level": 0
+    },
+    "graduate school": {
+      "name": "graduate school",
+      "gen": "all",
+      "level": 1
+    },
+    "university": {
+      "name": "university",
+      "gen": "all",
+      "level": 1
+    },
+    "high school": {
+      "name": "high school",
+      "gen": "all",
+      "level": 1
+    },
+    "others": {
+      "name": "others",
+      "gen": "all",
+      "level": 1
+    },
+    "unknown": {
+      "name": "unknown",
+      "gen": "all",
+      "level": 1
+    }
+  }
+}
